@@ -5,7 +5,6 @@
 
 > *Access to this document has been logged. Your curiosity has been noted and added to your audit record.*
 
---
 
 ## Section 1 — Origin
 
