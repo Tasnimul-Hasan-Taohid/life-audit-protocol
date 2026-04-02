@@ -60,6 +60,6 @@ All contributions must adhere to the following:
 
 Be professional. The system will be watching.
 
----
+--
 
 *All contributors implicitly agree to be subject to audit upon submission.*
