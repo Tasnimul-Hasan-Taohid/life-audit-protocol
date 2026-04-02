@@ -93,4 +93,4 @@ def _write_to_log(verdict: dict) -> None:
         log.write(f"Regret Forecast: {verdict['regret_forecast']}\n")
         log.write(f"Hash: {verdict['hash']}\n")
         log.write("-" * 60 + "\n") 
-        log.write(f''Input'')
+        log.write
